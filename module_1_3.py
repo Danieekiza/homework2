@@ -8,4 +8,5 @@ print('New Age:', age)
 is_student = True
 print('is Student:',is_student)
 print()
-
+a = 55
+print(a)
